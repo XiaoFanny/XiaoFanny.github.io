@@ -1,6 +1,6 @@
 // 定義名稱。要與 images 資料夾內相同名稱 
-var labels = prompt("請輸入名稱並以逗號隔開人名:","Teddy,Chuan").toString().split(",")
-var username = prompt("請輸入 AIO 使用者名稱:","flagweng")
+var labels = prompt("請輸入名稱並以逗號隔開人名:","Teddy,Chuan,Fanny").toString().split(",")
+var username = prompt("請輸入 AIO 使用者名稱:","Fanny313")
 
 const video1 = document.getElementById('inputVideo')
 const conDev = document.getElementById('connDiv') 
